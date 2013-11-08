@@ -48,3 +48,5 @@ Have fun, let me know if you found this repo helpful and share with me
 
 3 - 1/4 thick alluminum to build a latch for the servo lock to engage
 
+1 - Appoxie and or Super Glue (prototype essentials)
+
