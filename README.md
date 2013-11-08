@@ -4,6 +4,19 @@ theWalkingDeadSurvivalLockBox
 Using an Arduino Uno, a servo, a few led's and a Sparkfun FPS scanner, you can 
 create a customized lock box that recognizes your unique finger print.
 
+The materials list is below and schematic is in the repository. Once the library 
+in the repo is added to your Arduino IDE, upload the example sketch "FPS Enroll". 
+Once uploaded to the board and the FPS scanner is connected, open the serial 
+monitorand follow the serial.Print commonads. They will prompt you to press down 
+the same finger 3 consecutive time. Once the enroll is successful, you can upload
+the "FPS Id" sketch to your board and watch the magic happen. Control anything
+from it really.
+
+Have fun, let me know if you found this repo helpful and share with me 
+(and the world) what you make.
+
+
+
 Materials List:
 
 1 - Arduino Uno
